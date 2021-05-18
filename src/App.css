@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  margin: 4rem;
+}
+
+#data2005{
+  margin: 1rem;
 }
 
 .App-logo {

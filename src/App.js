@@ -87,7 +87,7 @@ function App() {
   });
 
   return (
-    <div>
+    <div className="App">
       <div ref={canvas}></div>
       <button type="button" id="data2005">2005</button>
       <button type="button" id="data2006">2006</button>
